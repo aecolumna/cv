@@ -19,9 +19,11 @@ header{
     padding-top: 1em;
 }
 
+
+
 h1{
     font-size: 3.5em;
-    color: #A60000;
+    color: #00483C;
     text-align: left;
     font-family: 'Cormorant Garamond', serif;
     
@@ -45,14 +47,14 @@ div.content{
 }
 
 section{
-    margin-top: 1.5em;
+    margin-top: 1em;
 }
 
 section h3{
    
     font-size: 1.7em;
     font-weight: 500;
-    color: #A60000;
+    color: #00483C;
 }
 
 
@@ -65,6 +67,11 @@ div.school{
         margin-top:.6em;
 }
 
+
+p.intro{
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 1.2em;
+}
 div.school h4{
     font-size: 1.3em;
     float: left;
@@ -78,7 +85,7 @@ small.date{
 div.school h5{
     font-weight: 100;
     font-size: 1.2em;
-    margin-top: .3em;
+    margin-top: 0em;
 }
 
 p.languages{
@@ -90,7 +97,7 @@ p.languages{
 }
 
 footer{
-    background-color: #A60000;
+    background-color: #00483C;
     margin-top: 1em;
     color: white;
     height: 3.5em;

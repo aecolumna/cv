@@ -1,0 +1,32 @@
+
+div.box{
+    width: 20px;
+    height 20px;
+}
+
+div.blue{
+    background-color: blue;
+}
+
+div.wrapper{
+    margin: 0 auto;
+    width: calc(85% - 20px);
+    background-color: #eee;
+    padding: 20px;
+    overflow: auto;
+
+}
+
+div.wrapper:after{
+    clear: both;
+}
+
+img {
+    width: 250px;
+    float: left;
+    margin-right: 1em;
+}
+
+p{
+    font-size: 1em;
+}
